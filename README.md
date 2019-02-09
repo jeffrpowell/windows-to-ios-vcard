@@ -1,2 +1,2 @@
 # windows-to-ios-vcard
-Excel doc to facilitate Contacts conversion from Windows to VCard (iOS)
+Excel doc to facilitate Contacts conversion from Outlook to vCard (iOS)
